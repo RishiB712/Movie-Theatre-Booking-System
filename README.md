@@ -31,7 +31,9 @@ A console-based application to manage movie ticket bookings for a 5-screen cinem
 
 ## 📸 Sample Interaction
 Here is a look at the main menu and seating chart:
+
 ![Main Menu](screenshots/menu.png)
+
 ![Booking a Seat](screenshots/booking.png)
 
 ---

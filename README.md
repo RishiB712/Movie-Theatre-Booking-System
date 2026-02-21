@@ -29,5 +29,10 @@ A console-based application to manage movie ticket bookings for a 5-screen cinem
 * Tools: Scanner API for user input
 * Concepts: OOP, 2D Arrays, Control Flow
 
+## 📸 Sample Interaction
+Here is a look at the main menu and seating chart:
+![Main Menu](screenshots/menu.png)
+![Booking a Seat](screenshots/booking.png)
+
 ---
 Created by Rishi Bhuva
